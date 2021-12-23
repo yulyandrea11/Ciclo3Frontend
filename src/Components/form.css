@@ -1,0 +1,9 @@
+#product_form{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+
+.input_product{
+    
+}
